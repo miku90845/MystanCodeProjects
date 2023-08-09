@@ -13,7 +13,7 @@ Watch my *[DEMO VIDEO!]*()
 
 - [breakout](https://github.com/miku90845/MystanCodeProjects/blob/main/stanCode_Projects/Assignment2/breakout.py)
 
-- [catapultbase](https://github.com/miku90845/MystanCodeProjects/blob/main/stanCode_Projects/Assignment2/catapult.py)
+- [catapult](https://github.com/miku90845/MystanCodeProjects/blob/main/stanCode_Projects/Assignment2/catapult.py)
 
 - [stanCodoshop](https://github.com/miku90845/MystanCodeProjects/blob/main/stanCode_Projects/Assignment3/stanCodoshop.py)
 
